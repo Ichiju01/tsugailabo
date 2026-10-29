@@ -621,7 +621,7 @@ input[type="range"]:focus-visible { outline: 3px solid var(--soda); outline-offs
 .prose p { margin: 0 0 18px; }
 .prose ul { margin: 0 0 18px; padding-left: 1.4em; }
 .prose blockquote { margin: 0 0 18px; padding: 12px 18px; border-radius: 14px; background: var(--kumo); border: 1px dashed var(--rule); }
-.prose a:not(.mini-type) { color: var(--ichigo-deep); font-weight: 700; }
+.prose a:not(.mini-type):not(.btn) { color: var(--ichigo-deep); font-weight: 700; }
 .prose .mini-type { margin: 0 2px; vertical-align: middle; }
 .stat-card { margin: 0 0 22px; padding: 18px 20px; border-radius: 20px; background: #fff; border: var(--line); }
 .stat-card figcaption { font-weight: 700; font-size: 15px; line-height: 1.6; }
