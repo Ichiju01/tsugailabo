@@ -7,7 +7,7 @@
 ## 主なページ
 - [恋愛・結婚観診断（トップ）](https://tsugailabo.pages.dev/): 12問または30問で、16の恋愛タイプと恋愛観のレア度がわかる
 - [恋愛・結婚のアンケート結果（男女別）](https://tsugailabo.pages.dev/data/): 30項目の女性・男性の割合と出典
-- [ツガイラボについて](https://tsugailabo.pages.dev/about/): データ、タイプの決め方、レア度のしくみ
+- [ツガイラボとは](https://tsugailabo.pages.dev/about/): サイトに込めた思い、データ、タイプの決め方、レア度のしくみ
 - [16タイプ図鑑](https://tsugailabo.pages.dev/types/)
 
 ## 16の恋愛タイプ

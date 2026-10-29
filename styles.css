@@ -1137,3 +1137,20 @@ input[type="range"].untouched::-webkit-slider-thumb { border: 2px dashed var(--i
 /* スマホの共有メニュー（Instagram など、ほかのアプリへ） */
 .sns-more { grid-column: 1 / -1; background: #fff; color: var(--ink); border: 1px solid var(--rule) !important; font-family: var(--body) !important; font-weight: 700; cursor: pointer; }
 .sns-more[hidden] { display: none; }
+
+/* スマホ：上のタブが4つでも1行におさめる */
+.nav a { white-space: nowrap; }
+@media (max-width: 640px) {
+  .nav { gap: 0; }
+  .nav a { font-size: 13px; letter-spacing: 0; padding: 6px 6px; }
+}
+@media (max-width: 360px) {
+  .site-header { padding-left: 8px; padding-right: 8px; }
+  .logo-mark { width: 30px; height: 30px; }
+  .nav a { font-size: 12px; padding: 6px 4px; }
+}
+
+/* 小さいスマホで、はじめ方のカードが横にはみ出さないように */
+@media (max-width: 900px) {
+  .step-list { grid-template-columns: minmax(0, 1fr); }
+}
