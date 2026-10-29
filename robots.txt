@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tsugailabo.com/sitemap.xml
+Sitemap: https://tsugailabo.pages.dev/sitemap.xml
