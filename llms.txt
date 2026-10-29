@@ -1,0 +1,43 @@
+# ツガイラボ
+
+> 実際のアンケート結果とくらべる恋愛・結婚観診断。12問から、16の恋愛タイプと恋愛観のレア度がわかります。 診断の質問はすべて公開されているアンケート調査（女性・男性別の割合）にもとづきます。
+
+日本語の恋愛・結婚観診断サイトです。数字は出典つきの調査結果だけを使い、タイプごとの割合は推定と明記しています。
+
+## 主なページ
+- [恋愛・結婚観診断（トップ）](https://tsugailabo.pages.dev/): 12問または30問で、16の恋愛タイプと恋愛観のレア度がわかる
+- [恋愛・結婚のアンケート結果（男女別）](https://tsugailabo.pages.dev/data/): 30項目の女性・男性の割合と出典
+- [ツガイラボについて](https://tsugailabo.pages.dev/about/): データ、タイプの決め方、レア度のしくみ
+- [16タイプ図鑑](https://tsugailabo.pages.dev/types/)
+
+## 16の恋愛タイプ
+- [ドラマチック純愛家（白鳥タイプ）](https://tsugailabo.pages.dev/types/hckw): 恋はいつだって、運命の物語。
+- [胸キュン主人公（うさぎタイプ）](https://tsugailabo.pages.dev/types/hckn): 毎日が、ドラマのワンシーン。
+- [運命ダッシュ系（柴犬タイプ）](https://tsugailabo.pages.dev/types/hcow): この人だ、と思ったら未来までまっしぐら。
+- [全力ラブハンター（きつねタイプ）](https://tsugailabo.pages.dev/types/hcon): 好きって気づいたら、もう動いてる。
+- [スマート王道派（ペンギンタイプ）](https://tsugailabo.pages.dev/types/hfkw): ときめきも、将来も、ちゃんと両立。
+- [さわやか恋の旅人（つばめタイプ）](https://tsugailabo.pages.dev/types/hfkn): ときめきも、自由も、どっちも欲しい。
+- [ひらめき未来派（イルカタイプ）](https://tsugailabo.pages.dev/types/hfow): 自由に恋して、自分らしい未来をつくる。
+- [気まぐれ恋花火（ねこタイプ）](https://tsugailabo.pages.dev/types/hfon): 恋は、その日の気分で色が変わる。
+- [ひだまり尽くし系（ひつじタイプ）](https://tsugailabo.pages.dev/types/sckw): ゆっくり好きになって、ずっと大切にする。
+- [癒やしの保健室（コアラタイプ）](https://tsugailabo.pages.dev/types/sckn): そばにいるだけで、ほっとさせたい。
+- [あったか巣づくり派（リスタイプ）](https://tsugailabo.pages.dev/types/scow): ふたりの居場所を、ていねいにつくりたい。
+- [こっそり甘えんぼ（ハリネズミタイプ）](https://tsugailabo.pages.dev/types/scon): クールに見えて、ふたりきりだと甘えたい。
+- [誠実なしっかり者（フクロウタイプ）](https://tsugailabo.pages.dev/types/sfkw): 信頼できる人と、まっすぐ向き合いたい。
+- [ていねい恋愛ノート（子鹿タイプ）](https://tsugailabo.pages.dev/types/sfkn): 小さな約束を、ひとつずつ大切に。
+- [しずかな月の恋人（オオカミタイプ）](https://tsugailabo.pages.dev/types/sfow): ゆっくり、でも確かに、未来を照らす。
+- [マイペース恋愛職人（カメタイプ）](https://tsugailabo.pages.dev/types/sfon): ふたりのちょうどいいは、ふたりで決める。
+
+## 恋愛コラム
+- [ハロウィンデートは大人の過ごし方で。人混みに行かない楽しみ方](https://tsugailabo.pages.dev/columns/halloween-date): 今年のハロウィンは土曜日。仮装して繁華街へ…だけじゃない、大人のふたりのハロウィンデートを、付き合う前・付き合ってからの段階別に。誘い方のひとことや、渋谷の今年のルールも。
+- [国立競技場でリレー婚活。「一緒に何かする」出会いが増えている](https://tsugailabo.pages.dev/columns/run-together-konkatsu): 東京都が10月16日、国立競技場で独身の人向けの婚活ランニングイベントを開きました。山梨県との連携企画も。自治体の婚活が「話す場」から「一緒に体験する場」へ広がる流れと、その良さを考えます。
+- [「しずかな月の恋人」タイプの恋愛をアンケート結果と読む](https://tsugailabo.pages.dev/columns/quiet-moon-type): じっくり信頼を育て、ほどよい距離を保ち、世間のふつうより自分の価値観を大切にしながら将来も真剣に考える。「しずかな月の恋人」タイプの恋の特徴を、友達から恋人、遠距離恋愛、結婚意思のアンケート結果とあわせて見ていきます。
+- [「守る」「守られる」は恋人に必要？アンケートで見る男女の感覚](https://tsugailabo.pages.dev/columns/protect-and-be-protected): 「女性はか弱いから守られるべき」と考える人はどのくらい？初デートの会計の考え方とあわせて、恋人どうしの「守る・守られる」にまつわるアンケート結果を男女別に見ながら、ふたりらしい支え合い方を考えます。
+- [いずれ結婚したい？その前に同棲？結婚へのイメージをアンケートで見る](https://tsugailabo.pages.dev/columns/marriage-and-living-together): いずれ結婚したいと思う人はどのくらい？結婚前の同棲や「結婚して一人前」という考え方は？結婚へのイメージにまつわる3つのアンケート結果を男女別に見ながら、ふたりらしい形を考えます。
+- [話し上手？価値観？恋人に求めることをアンケートで見る](https://tsugailabo.pages.dev/columns/what-we-want-in-a-partner): 恋人は聞き上手と話し上手のどちらがいい？「好きなこと」と「許せないこと」はどちらが同じであってほしい？過去の交際人数は気になる？恋人に求めることにまつわる3つのアンケート結果を男女別に見てみます。
+- [毎日連絡？記念日？付き合ってからの「ちょうどいい距離」をアンケートで見る](https://tsugailabo.pages.dev/columns/daily-distance): 恋人との毎日の連絡、交際記念日、SNSへの写真、遠距離恋愛。付き合ってからの距離感にまつわる4つのアンケート結果を男女別に見ながら、ふたりにとってのちょうどいい距離を考えます。
+- [一目惚れ派？友達から派？恋の始まり方をアンケートで見る](https://tsugailabo.pages.dev/columns/how-love-begins): 一目惚れの経験、友達から恋人になること、付き合い始めた日のキス、好きな人に恋人がいたとき。恋の始まりにまつわるアンケート結果を男女別に並べて、それぞれの「始まり方」を考えます。
+- [嫉妬はどこまでならうれしい？「やきもち」と信頼の境界線](https://tsugailabo.pages.dev/columns/jealousy-and-trust): 恋人の嫉妬はうれしい？それとも重い？スマホ、異性との外出、浮気未遂まで、やきもちと信頼にまつわるアンケート結果を男女別に見ながら、ふたりの境界線の見つけ方を考えます。
+- [初デートはカウンター席？テーブル席？男女で好みが分かれる理由](https://tsugailabo.pages.dev/columns/first-date-seat): 初めての食事デート、隣同士のカウンターと向かい合うテーブル、どちらがいい？アンケート結果を男女別に見ると、意外なちがいがありました。
+- [「告白は相手からしてほしい」女性と男性で大きなギャップ](https://tsugailabo.pages.dev/columns/kokuhaku-gap): 告白はしたい？されたい？アンケートでは、相手からの告白を待つ人の割合に男女で大きな差がありました。告白したことがある人の割合とあわせて見てみます。
+- [結婚相手に求める条件、男女でこんなにちがう【国の調査より】](https://tsugailabo.pages.dev/columns/marriage-conditions): 経済力、職業、学歴、容姿。結婚相手を選ぶときに気にする条件を、国の大規模調査（出生動向基本調査）から男女別に見てみます。
